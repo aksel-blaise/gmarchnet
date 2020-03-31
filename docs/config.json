@@ -3,7 +3,7 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "https://github.com/aksel-blaise/gmarchnet/blob/master/img/sfasu.png",
+    "file": "img/sfasu.png",
     "link": "http://sfasu.edu/",
     "text": "Robert Z. Selden, Jr."
   },
