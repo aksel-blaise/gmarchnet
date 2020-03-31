@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "This interactive network is a work in progress, and revisions will occur throughout its\u0027 development.",
-    "intro": "\u003cp\u003eRobert Z. Selden, Jr.\u003c/p\u003e\n\u003cp\u003e--\u003c/p\u003e\n\u003cp\u003eCitation data for geometric morphometric publications in archaeology were harvested from Scopus. This interactive graph includes all nodes (n\u003d3852) and edges (n\u003d5216) visualised in the network. Nodes are sized  by InDegree, meaning that those nodes with more citations are larger.\u003c/p\u003e\n\u003cp\u003e-----\u003c/p\u003e",
+    "intro": "\u003cp\u003eRobert Z. Selden, Jr.\u003c/p\u003e\n\u003cp\u003e--\u003c/p\u003e\n\u003cp\u003eCitation data for geometric morphometric publications in archaeology were harvested from Scopus. This interactive graph includes all nodes (n\u003d3852) and edges (n\u003d5216) visualised in the network. Nodes are sized  by InDegree, meaning that those nodes with more citations appear larger.\u003c/p\u003e\n\u003cp\u003e-----\u003c/p\u003e",
     "title": "Geometric Morphometric Publications in Archaeology"
   },
   "legend": {
